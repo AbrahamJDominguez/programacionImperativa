@@ -1,2 +1,3 @@
-# programacionImperativa
+# Programacion Imperativa
 Respositorio de actividades de programación imperativa
+Ciclos, variables, prompts, etc...
